@@ -1,0 +1,11 @@
+/Users/amadeocharle/UZH/MAP/ProvotumXAirGap/rust-rocket-app/target/debug/deps/socket2-0bf7ce292dfb269b.rmeta: /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/lib.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockaddr.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/socket.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockref.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sys/unix.rs
+
+/Users/amadeocharle/UZH/MAP/ProvotumXAirGap/rust-rocket-app/target/debug/deps/libsocket2-0bf7ce292dfb269b.rlib: /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/lib.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockaddr.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/socket.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockref.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sys/unix.rs
+
+/Users/amadeocharle/UZH/MAP/ProvotumXAirGap/rust-rocket-app/target/debug/deps/socket2-0bf7ce292dfb269b.d: /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/lib.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockaddr.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/socket.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockref.rs /Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sys/unix.rs
+
+/Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/lib.rs:
+/Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockaddr.rs:
+/Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/socket.rs:
+/Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sockref.rs:
+/Users/amadeocharle/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.2/src/sys/unix.rs:
